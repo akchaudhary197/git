@@ -1,3 +1,4 @@
+version 2
 this is my index.txt file and
 i'm use it for indexing.
 just chill git.
