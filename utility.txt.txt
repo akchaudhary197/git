@@ -1,0 +1,2 @@
+this is utility.txt file. version 1
+i use this file for git practice.
