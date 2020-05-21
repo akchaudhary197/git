@@ -1,3 +1,4 @@
-version 3
+version 0
+
 this is my index.txt file 
 just chill github using git command
